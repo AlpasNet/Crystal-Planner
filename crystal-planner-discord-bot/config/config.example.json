@@ -1,0 +1,34 @@
+{
+  "syncIntervalMinutes": 15,
+  "webFolderUrl": "https://alpasnet.eu/cozy_events",
+  "jsonReadDelaySeconds": 3,
+  "events": {
+    "enabled": true,
+    "channelId": "",
+    "crosspostAnnouncements": false
+  },
+  "eventAnnouncements": {
+    "enabled": true,
+    "channelId": "",
+    "discordUrl": "https://discord.gg/your-invite",
+    "imageUrl": "https://example.com/events-announcement.png",
+    "publishAnnouncements": true
+  },
+  "rules": {
+    "enabled": true,
+    "channelId": ""
+  },
+  "guides": {
+    "enabled": true,
+    "channelId": ""
+  },
+  "macros": {
+    "enabled": true,
+    "channelId": ""
+  },
+  "lodestone": {
+    "enabled": true,
+    "newsChannelId": "",
+    "topicsChannelId": ""
+  }
+}

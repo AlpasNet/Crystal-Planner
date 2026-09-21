@@ -1,0 +1,20 @@
+{
+  "name": "crystal-planner-server",
+  "version": "1.1.7",
+  "description": "Crystal Planner Discord synchronization service for Debian/Linux",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/index.js run",
+    "sync": "node src/index.js sync",
+    "check": "node src/index.js check",
+    "clear-lodestone": "node src/index.js clear-lodestone",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "ws": "8.21.3"
+  }
+}

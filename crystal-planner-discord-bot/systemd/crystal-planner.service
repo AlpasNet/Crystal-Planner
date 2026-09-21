@@ -1,0 +1,32 @@
+[Unit]
+Description=Crystal Planner Discord Bot
+Documentation=https://github.com/AlpasNet/Crystal-Planner
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=crystalplanner
+Group=crystalplanner
+WorkingDirectory=/opt/crystal-planner
+EnvironmentFile=/etc/crystal-planner/crystal-planner.env
+Environment=CRYSTAL_PLANNER_CONFIG=/etc/crystal-planner/config.json
+Environment=CRYSTAL_PLANNER_STATE=/var/lib/crystal-planner/state.json
+ExecStart=/usr/bin/env node /opt/crystal-planner/src/index.js run
+Restart=always
+RestartSec=5
+TimeoutStopSec=180
+
+# Basic systemd hardening. The bot only needs network access and write access
+# to /var/lib/crystal-planner.
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ProtectKernelTunables=true
+ProtectKernelModules=true
+ProtectControlGroups=true
+ReadWritePaths=/var/lib/crystal-planner
+
+[Install]
+WantedBy=multi-user.target
