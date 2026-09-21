@@ -1,0 +1,348 @@
+{
+    "next_id": 69,
+    "categories": {
+        "pve": [
+            {
+                "id": 1,
+                "name": "Dark Knight",
+                "image": ""
+            },
+            {
+                "id": 2,
+                "name": "Gunbreaker",
+                "image": ""
+            },
+            {
+                "id": 3,
+                "name": "Paladin",
+                "image": ""
+            },
+            {
+                "id": 4,
+                "name": "Warrior",
+                "image": ""
+            },
+            {
+                "id": 5,
+                "name": "Astrologian",
+                "image": ""
+            },
+            {
+                "id": 6,
+                "name": "Sage",
+                "image": ""
+            },
+            {
+                "id": 7,
+                "name": "Scholar",
+                "image": ""
+            },
+            {
+                "id": 8,
+                "name": "White Mage",
+                "image": ""
+            },
+            {
+                "id": 9,
+                "name": "Bard",
+                "image": ""
+            },
+            {
+                "id": 10,
+                "name": "Black Mage",
+                "image": ""
+            },
+            {
+                "id": 11,
+                "name": "Dancer",
+                "image": ""
+            },
+            {
+                "id": 12,
+                "name": "Dragoon",
+                "image": ""
+            },
+            {
+                "id": 13,
+                "name": "Machinist",
+                "image": ""
+            },
+            {
+                "id": 14,
+                "name": "Monk",
+                "image": ""
+            },
+            {
+                "id": 15,
+                "name": "Ninja",
+                "image": ""
+            },
+            {
+                "id": 16,
+                "name": "Pictomancer",
+                "image": ""
+            },
+            {
+                "id": 17,
+                "name": "Reaper",
+                "image": ""
+            },
+            {
+                "id": 18,
+                "name": "Red Mage",
+                "image": ""
+            },
+            {
+                "id": 19,
+                "name": "Samurai",
+                "image": ""
+            },
+            {
+                "id": 20,
+                "name": "Summoner",
+                "image": ""
+            },
+            {
+                "id": 21,
+                "name": "Viper",
+                "image": ""
+            },
+            {
+                "id": 22,
+                "name": "Blue Mage",
+                "image": ""
+            },
+            {
+                "id": 59,
+                "name": "Beastmaster",
+                "image": ""
+            },
+            {
+                "id": 62,
+                "name": "All-Rounder",
+                "image": ""
+            },
+            {
+                "id": 63,
+                "name": "Joker",
+                "image": ""
+            }
+        ],
+        "pvp": [
+            {
+                "id": 38,
+                "name": "Dark Knight",
+                "image": ""
+            },
+            {
+                "id": 39,
+                "name": "Gunbreaker",
+                "image": ""
+            },
+            {
+                "id": 40,
+                "name": "Paladin",
+                "image": ""
+            },
+            {
+                "id": 41,
+                "name": "Warrior",
+                "image": ""
+            },
+            {
+                "id": 42,
+                "name": "Astrologian",
+                "image": ""
+            },
+            {
+                "id": 43,
+                "name": "Sage",
+                "image": ""
+            },
+            {
+                "id": 44,
+                "name": "Scholar",
+                "image": ""
+            },
+            {
+                "id": 45,
+                "name": "White Mage",
+                "image": ""
+            },
+            {
+                "id": 46,
+                "name": "Bard",
+                "image": ""
+            },
+            {
+                "id": 47,
+                "name": "Black Mage",
+                "image": ""
+            },
+            {
+                "id": 48,
+                "name": "Dancer",
+                "image": ""
+            },
+            {
+                "id": 49,
+                "name": "Dragoon",
+                "image": ""
+            },
+            {
+                "id": 50,
+                "name": "Machinist",
+                "image": ""
+            },
+            {
+                "id": 51,
+                "name": "Monk",
+                "image": ""
+            },
+            {
+                "id": 52,
+                "name": "Ninja",
+                "image": ""
+            },
+            {
+                "id": 53,
+                "name": "Pictomancer",
+                "image": ""
+            },
+            {
+                "id": 54,
+                "name": "Reaper",
+                "image": ""
+            },
+            {
+                "id": 55,
+                "name": "Red Mage",
+                "image": ""
+            },
+            {
+                "id": 56,
+                "name": "Samurai",
+                "image": ""
+            },
+            {
+                "id": 57,
+                "name": "Summoner",
+                "image": ""
+            },
+            {
+                "id": 58,
+                "name": "Viper",
+                "image": ""
+            },
+            {
+                "id": 64,
+                "name": "All-Rounder",
+                "image": ""
+            },
+            {
+                "id": 65,
+                "name": "Joker",
+                "image": ""
+            }
+        ],
+        "craft_gather": [
+            {
+                "id": 24,
+                "name": "Alchemist",
+                "image": ""
+            },
+            {
+                "id": 25,
+                "name": "Armorer",
+                "image": ""
+            },
+            {
+                "id": 26,
+                "name": "Blacksmith",
+                "image": ""
+            },
+            {
+                "id": 27,
+                "name": "Carpenter",
+                "image": ""
+            },
+            {
+                "id": 28,
+                "name": "Culinarian",
+                "image": ""
+            },
+            {
+                "id": 29,
+                "name": "Goldsmith",
+                "image": ""
+            },
+            {
+                "id": 30,
+                "name": "Leatherworker",
+                "image": ""
+            },
+            {
+                "id": 31,
+                "name": "Weaver",
+                "image": ""
+            },
+            {
+                "id": 32,
+                "name": "Botanist",
+                "image": ""
+            },
+            {
+                "id": 33,
+                "name": "Fisher",
+                "image": ""
+            },
+            {
+                "id": 34,
+                "name": "Miner",
+                "image": ""
+            },
+            {
+                "id": 66,
+                "name": "Joker",
+                "image": ""
+            }
+        ],
+        "other": [
+            {
+                "id": 35,
+                "name": "Tank",
+                "image": ""
+            },
+            {
+                "id": 36,
+                "name": "Healer",
+                "image": ""
+            },
+            {
+                "id": 37,
+                "name": "Melee DPS",
+                "image": ""
+            },
+            {
+                "id": 60,
+                "name": "Physical Ranged DPS",
+                "image": ""
+            },
+            {
+                "id": 61,
+                "name": "Magical Ranged DPS",
+                "image": ""
+            },
+            {
+                "id": 67,
+                "name": "All-Rounder",
+                "image": ""
+            },
+            {
+                "id": 68,
+                "name": "Joker",
+                "image": ""
+            }
+        ]
+    }
+}
