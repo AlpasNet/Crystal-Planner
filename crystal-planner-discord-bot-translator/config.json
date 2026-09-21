@@ -1,0 +1,20 @@
+{
+  "channels": {
+    "fr": "PUT_FRENCH_CHANNEL_ID_HERE",
+    "en": "PUT_ENGLISH_CHANNEL_ID_HERE"
+  },
+  "editWindowMinutes": 60,
+  "syncDeletesWithinEditWindow": true,
+  "messageMappingRetentionDays": 30,
+  "translationLabel": true,
+  "copyAttachments": true,
+  "webhookName": "Crystal Translator",
+  "model": {
+    "architecture": "base-memory",
+    "releaseStatus": "Release",
+    "registryUrl": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/db/models.json",
+    "cacheDir": "./data/models",
+    "downloadTimeoutMs": 120000,
+    "refreshMozillaRegistry": false
+  }
+}

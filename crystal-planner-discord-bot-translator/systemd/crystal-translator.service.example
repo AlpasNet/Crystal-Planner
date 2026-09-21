@@ -1,0 +1,20 @@
+[Unit]
+Description=Crystal Translator Discord Bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=crystaltranslator
+Group=crystaltranslator
+WorkingDirectory=/opt/crystal-translator
+ExecStart=/usr/bin/npm start
+Restart=on-failure
+RestartSec=5
+Environment=NODE_ENV=production
+
+# Optional hard memory ceiling; 1 GiB leaves margin on a 2 GiB VPS.
+MemoryMax=1G
+
+[Install]
+WantedBy=multi-user.target

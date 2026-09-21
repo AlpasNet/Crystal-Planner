@@ -1,0 +1,19 @@
+{
+  "name": "crystal-translator",
+  "version": "0.1.10",
+  "private": true,
+  "type": "module",
+  "description": "Automatic FR <-> EN Discord translation bot powered locally by Bergamot.",
+  "scripts": {
+    "start": "node --env-file=.env src/index.js",
+    "warmup": "node --env-file=.env src/warmup.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20.12.0"
+  },
+  "dependencies": {
+    "@browsermt/bergamot-translator": "0.4.9",
+    "discord.js": "14.27.0"
+  }
+}

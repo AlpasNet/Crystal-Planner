@@ -1,0 +1,51 @@
+{
+  "protectedTerms": [
+    "FFXIV",
+    "Final Fantasy XIV",
+    "Light",
+    "Chaos",
+    "Lodestone",
+    "Party Finder",
+    "Duty Finder",
+    "Crystal Planner",
+    "Crystal Translator",
+    "Cozy Events",
+    "Discord",
+    "PvE",
+    "PvP",
+    "DPS",
+    "MT",
+    "OT",
+    "H1",
+    "H2",
+    "M1",
+    "M2",
+    "R1",
+    "R2",
+    "PF",
+    "FC"
+  ],
+  "dictionary": {
+    "fr-en": {
+      "Cartes au trésor": "Treasure Maps",
+      "Carte au trésor": "Treasure Map",
+      "Compagnies libres": "Free Companies",
+      "Compagnie libre": "Free Company",
+      "Chaotique": "Chaotic",
+      "Sadique": "Savage",
+      "Ultime": "Ultimate",
+      "Extrême": "Extreme",
+      "Extreme": "Extreme"
+    },
+    "en-fr": {
+      "Treasure Maps": "Cartes au trésor",
+      "Treasure Map": "Carte au trésor",
+      "Free Companies": "Compagnies libres",
+      "Free Company": "Compagnie libre",
+      "Chaotic": "Chaotique",
+      "Savage": "Sadique",
+      "Ultimate": "Ultime",
+      "Extreme": "Extrême"
+    }
+  }
+}
