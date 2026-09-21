@@ -4,7 +4,7 @@
 
 Crystal Planner is available for non-commercial use only.
 
-Copyright © 2026 AlpasNet — Seije L. IMBERT & Sélène L. IMBERT.
+Copyright © 2026 AlpasNet — Seije L. IMBERT
 
 Any redistribution or modified version must credit the original authors
 and retain links to the original resource and the official AlpasNet website.
