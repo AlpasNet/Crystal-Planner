@@ -1,4 +1,6 @@
-# Crystal-Planner
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlpasNet/Crystal-Planner/refs/heads/main/logo.png" width="30%" height="30%" alt="Sublime's custom image"/>
+</p>
 
 Crystal Planner is available for non-commercial use only.
 
